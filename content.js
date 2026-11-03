@@ -112,7 +112,7 @@ const GAME = {
 
   facts: {
     common: `Y is suing X for $15,000 over a renovation. A discount is disputed. Z is X’s lawyer.`,
-    first: `X asks Z to “prepare a new copy of the written agreement dated 10 March 2025” and says he will “settle the rest”. X could recall only that the agreement was signed “sometime in March 2025”. Z refuses to do so.`,
+    first: `X says Y agreed to a $15,000 discount in a written agreement signed sometime in March 2025, which he can no longer find. X asks Z to “prepare a new copy of the written agreement dated 10 March 2025” and says he will “settle the rest”. Z refuses to do so.`,
     second: `X asks Z for advice on whether he could be sued for defamation over a draft social media post, written to “spread awareness” and to “let Y know that [X] is not someone to mess with”. Z amends the post to remove the potentially defamatory parts and advises that there are “no other issues”. X publishes the amended post.`,
     question: `Do the First Email and Second Email fall within s128(2) EA?`
   },
