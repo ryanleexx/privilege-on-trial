@@ -2,6 +2,10 @@
 
 A choose-your-own-adventure game on s128(2) of the Evidence Act 1893, made for the LPP Seminar Q3(a) presentation.
 
+## Play online
+
+https://ryanleexx.github.io/privilege-on-trial/
+
 ## Open it
 
 Keep `index.html` and `content.js` in the same folder and double-click `index.html`. It needs no internet connection, server or install. It works in Chrome and Edge.
